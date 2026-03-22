@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 9c685e668b4f8466380aaa4f3039af69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2417950487411294731
+    second: Anadar_Bahar_Ui_Btn_2_0
+  - first:
+      213: -6898205347289416836
+    second: Anadar_Bahar_Ui_Btn_2_1
+  - first:
+      213: 5839902118054658212
+    second: Anadar_Bahar_Ui_Btn_2_2
+  - first:
+      213: -4353493870026911369
+    second: Anadar_Bahar_Ui_Btn_2_3
+  - first:
+      213: -8757856496506578221
+    second: Anadar_Bahar_Ui_Btn_2_4
+  - first:
+      213: -8936905708686533768
+    second: Anadar_Bahar_Ui_Btn_2_5
+  - first:
+      213: 9187441256473025320
+    second: Anadar_Bahar_Ui_Btn_2_6
+  - first:
+      213: 1983740389079390060
+    second: Anadar_Bahar_Ui_Btn_2_7
+  - first:
+      213: 5194165766279798847
+    second: Anadar_Bahar_Ui_Btn_2_8
+  - first:
+      213: -7957798150250206798
+    second: Anadar_Bahar_Ui_Btn_2_9
+  - first:
+      213: 4052630096028732315
+    second: Anadar_Bahar_Ui_Btn_2_10
+  - first:
+      213: 5908689059714286952
+    second: Anadar_Bahar_Ui_Btn_2_11
+  - first:
+      213: -7623233051798732243
+    second: Anadar_Bahar_Ui_Btn_2_12
+  - first:
+      213: 7320000796588839399
+    second: Anadar_Bahar_Ui_Btn_2_13
+  - first:
+      213: 7171644370842648785
+    second: Anadar_Bahar_Ui_Btn_2_14
+  - first:
+      213: -8834897342363207690
+    second: Anadar_Bahar_Ui_Btn_2_15
+  - first:
+      213: 1131769171467795592
+    second: Anadar_Bahar_Ui_Btn_2_16
+  - first:
+      213: 3734581707853787553
+    second: Anadar_Bahar_Ui_Btn_2_17
+  - first:
+      213: -7834737832193040491
+    second: Anadar_Bahar_Ui_Btn_2_18
+  - first:
+      213: 535361848081580793
+    second: Anadar_Bahar_Ui_Btn_2_19
+  - first:
+      213: -6514435283341717274
+    second: Anadar_Bahar_Ui_Btn_2_20
+  - first:
+      213: 6873765954218431739
+    second: Anadar_Bahar_Ui_Btn_2_21
+  - first:
+      213: 1348885215254698028
+    second: Anadar_Bahar_Ui_Btn_2_22
+  - first:
+      213: 7930650277852309186
+    second: Anadar_Bahar_Ui_Btn_2_23
+  - first:
+      213: -1917171786475023570
+    second: Anadar_Bahar_Ui_Btn_2_24
+  - first:
+      213: 3990717495954849913
+    second: Anadar_Bahar_Ui_Btn_2_25
+  - first:
+      213: -6704840544409845158
+    second: Anadar_Bahar_Ui_Btn_2_26
+  - first:
+      213: 3390403740273647228
+    second: Anadar_Bahar_Ui_Btn_2_27
+  - first:
+      213: 7825993435853206520
+    second: Anadar_Bahar_Ui_Btn_2_28
+  - first:
+      213: -8865642244052826724
+    second: Anadar_Bahar_Ui_Btn_2_29
+  - first:
+      213: 7662028300615778677
+    second: Anadar_Bahar_Ui_Btn_2_30
+  - first:
+      213: -6374895044908258353
+    second: Anadar_Bahar_Ui_Btn_2_31
+  - first:
+      213: 969011221246419586
+    second: Anadar_Bahar_Ui_Btn_2_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 303
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdfd51b7d6b17ed0800000000000000
+      internalID: -2417950487411294731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b3d1fe8c6a440a0800000000000000
+      internalID: -6898205347289416836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 298
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a003b509008b0150800000000000000
+      internalID: 5839902118054658212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771943914684593c0800000000000000
+      internalID: -4353493870026911369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 284
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dad0e3eae7d57680800000000000000
+      internalID: -8757856496506578221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 283
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b14929b9bb9f380800000000000000
+      internalID: -8936905708686533768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 283
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bd7d64529508f70800000000000000
+      internalID: 9187441256473025320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 284
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671ca1af59a78b10800000000000000
+      internalID: 1983740389079390060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 279
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302a9b9e32651840800000000000000
+      internalID: 5194165766279798847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 282
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9631c9eb8309190800000000000000
+      internalID: -7957798150250206798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 305
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b89dfb995dd3830800000000000000
+      internalID: 4052630096028732315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 175
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865c18ce461eff150800000000000000
+      internalID: 5908689059714286952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d220583dde5d43690800000000000000
+      internalID: -7623233051798732243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 170
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1114401fdd59560800000000000000
+      internalID: 7320000796588839399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0818bee8cc68360800000000000000
+      internalID: 7171644370842648785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f5692da3246580800000000000000
+      internalID: -8834897342363207690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 155
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c7319a01ad4bf00800000000000000
+      internalID: 1131769171467795592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 155
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fb41d646e3d330800000000000000
+      internalID: 3734581707853787553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 156
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd1dba37b654390800000000000000
+      internalID: -7834737832193040491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_19
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 151
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2033da3ccfd6700800000000000000
+      internalID: 535361848081580793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 154
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05520ff931895a0800000000000000
+      internalID: -6514435283341717274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 177
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41d5277b5846f50800000000000000
+      internalID: 6873765954218431739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285802e4f338b210800000000000000
+      internalID: 1348885215254698028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66d39c8645f0e60800000000000000
+      internalID: 7930650277852309186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2351c5fa66d465e0800000000000000
+      internalID: -1917171786475023570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97043593b60e16730800000000000000
+      internalID: 3990717495954849913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5280d27c0f93f2a0800000000000000
+      internalID: -6704840544409845158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 27
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e9a281d322d0f20800000000000000
+      internalID: 3390403740273647228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 27
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b196e0938b9c60800000000000000
+      internalID: 7825993435853206520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 28
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c889e959e6f480800000000000000
+      internalID: -8865642244052826724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 23
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571813de42ef45a60800000000000000
+      internalID: 7662028300615778677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 26
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb68d77bb2d787a0800000000000000
+      internalID: -6374895044908258353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anadar_Bahar_Ui_Btn_2_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 49
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a2c9529e927d00800000000000000
+      internalID: 969011221246419586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Anadar_Bahar_Ui_Btn_2_0: -2417950487411294731
+      Anadar_Bahar_Ui_Btn_2_1: -6898205347289416836
+      Anadar_Bahar_Ui_Btn_2_10: 4052630096028732315
+      Anadar_Bahar_Ui_Btn_2_11: 5908689059714286952
+      Anadar_Bahar_Ui_Btn_2_12: -7623233051798732243
+      Anadar_Bahar_Ui_Btn_2_13: 7320000796588839399
+      Anadar_Bahar_Ui_Btn_2_14: 7171644370842648785
+      Anadar_Bahar_Ui_Btn_2_15: -8834897342363207690
+      Anadar_Bahar_Ui_Btn_2_16: 1131769171467795592
+      Anadar_Bahar_Ui_Btn_2_17: 3734581707853787553
+      Anadar_Bahar_Ui_Btn_2_18: -7834737832193040491
+      Anadar_Bahar_Ui_Btn_2_19: 535361848081580793
+      Anadar_Bahar_Ui_Btn_2_2: 5839902118054658212
+      Anadar_Bahar_Ui_Btn_2_20: -6514435283341717274
+      Anadar_Bahar_Ui_Btn_2_21: 6873765954218431739
+      Anadar_Bahar_Ui_Btn_2_22: 1348885215254698028
+      Anadar_Bahar_Ui_Btn_2_23: 7930650277852309186
+      Anadar_Bahar_Ui_Btn_2_24: -1917171786475023570
+      Anadar_Bahar_Ui_Btn_2_25: 3990717495954849913
+      Anadar_Bahar_Ui_Btn_2_26: -6704840544409845158
+      Anadar_Bahar_Ui_Btn_2_27: 3390403740273647228
+      Anadar_Bahar_Ui_Btn_2_28: 7825993435853206520
+      Anadar_Bahar_Ui_Btn_2_29: -8865642244052826724
+      Anadar_Bahar_Ui_Btn_2_3: -4353493870026911369
+      Anadar_Bahar_Ui_Btn_2_30: 7662028300615778677
+      Anadar_Bahar_Ui_Btn_2_31: -6374895044908258353
+      Anadar_Bahar_Ui_Btn_2_32: 969011221246419586
+      Anadar_Bahar_Ui_Btn_2_4: -8757856496506578221
+      Anadar_Bahar_Ui_Btn_2_5: -8936905708686533768
+      Anadar_Bahar_Ui_Btn_2_6: 9187441256473025320
+      Anadar_Bahar_Ui_Btn_2_7: 1983740389079390060
+      Anadar_Bahar_Ui_Btn_2_8: 5194165766279798847
+      Anadar_Bahar_Ui_Btn_2_9: -7957798150250206798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

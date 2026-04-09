@@ -121,7 +121,7 @@ TextureImporter:
         width: 223
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,11 +134,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Andar_Bahar_Ui_Popup_2_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 223
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40528f52db8c14528950a7912ede1215
+      internalID: 1082201195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andar_Bahar_Ui_Popup_2_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 223
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c5ac51e1ba4229a69d9a0d0d92fc8
+      internalID: -1653668896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 986c71c91dc9245fdbfff0f7090e5939
     internalID: 0
     vertices: []
     indices: 
@@ -149,6 +193,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Andar_Bahar_Ui_Popup_2_0: -5024940453052709786
+      Andar_Bahar_Ui_Popup_2_1: 1082201195
+      Andar_Bahar_Ui_Popup_2_2: -1653668896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
